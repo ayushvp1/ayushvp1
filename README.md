@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush VP
 
-**Computer Science Postgraduate | ML/DL Researcher **
+**Computer Science Postgraduate | ML/DL Researcher**
 
 ---
 
@@ -58,7 +58,6 @@ I believe in understanding models deeply — not just training them, but analyzi
 
 ![GitHub Streak](https://nirzak-streak-stats.vercel.app/?user=ayushvp1&theme=dark&hide_border=false)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayushvp1&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 </div>
 
