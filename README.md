@@ -61,15 +61,6 @@ I believe in understanding models deeply — not just training them, but analyzi
 
 </div>
 
----
-
-## 🏆 Achievements
-
-<div align="center">
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushvp1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
@@ -88,8 +79,5 @@ I'm always interested in collaborating on interesting ML/CV projects, discussing
 
 ---
 
-<div align="center">
-  
-![Profile Views](https://visitcount.itsvg.in/api?id=ayushvp1&icon=0&color=0)
 
 </div>
