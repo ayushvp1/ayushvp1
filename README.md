@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Ayush VP
 
-**Computer Science Postgraduate | ML/DL Researcher | Computer Vision Specialist**
+**Computer Science Postgraduate | ML/DL Researcher **
 
 ---
 
@@ -71,12 +71,6 @@ I believe in understanding models deeply — not just training them, but analyzi
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=ayushvp1&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
-
----
-
-## 🔝 Top Contributed Repositories
-
-![Top Contributed Repos](https://github-contributor-stats.vercel.app/api?username=ayushvp1&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
 
